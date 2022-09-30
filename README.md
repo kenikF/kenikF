@@ -2,7 +2,13 @@
 
 ## I'm back-end developer on node.js
 
-### Languages and tools
+### Languages and Tools
 
-![Node.js](https://img.shields.io/badge/-Node.js-37474F?style-for-the-badge&logo=node.js)
-![SQL](https://img.shields.io/badge/-SQL-37474F?style-for-the-badge&logo=mysql)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style-for-the-badge&logo=node.js)
+![SQL](https://img.shields.io/badge/-SQL-090909?style-for-the-badge&logo=mysql)
+
+### Follow Me
+
+[![VK](https://img.shields.io/badge/-VK-090909?style-for-the-badge&logo=vk&logoColor=007BB6)](https://vk.com/id672065640)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style-for-the-badge&logo=telegram)](https://web.telegram.org/k/#@opozelovel)
+[![DISCORD](https://img.shields.io/badge/-DISCORD-090909?style-for-the-badge&logo=discord)](https://discordapp.com/users/766231695011217408/)
