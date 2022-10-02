@@ -1,10 +1,11 @@
 ![Header](https://github.com/kenikF/kenikF/blob/main/assets/KenikF.gif)
 
-## I'm back-end developer on node.js
+## I'm back-end developer
 
 ### Languages and Tools
 
-![Node.js](https://img.shields.io/badge/-Node.js-090909?style-for-the-badge&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-090909?style-for-the-badge&logo=java)
+![GO](https://img.shields.io/badge/-GO-090909?style-for-the-badge&logo=go)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style-for-the-badge&logo=mysql)
 
 ### Follow Me
