@@ -2,7 +2,7 @@
 
 ### Languages and Tools
 
-![C#](https://img.shields.io/badge/-C#-090909?style-for-the-badge&logo=cs)
+![C#](https://img.shields.io/badge/-C#-090909?style-for-the-badge&logo=c#)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style-for-the-badge&logo=mysql)
 
 ### Follow Me
