@@ -2,7 +2,7 @@
 
 ### Languages and Tools
 
-![Java](https://img.shields.io/badge/-Java-090909?style-for-the-badge&logo=java)
+![C#](https://img.shields.io/badge/-Java-090909?style-for-the-badge&logo=c#)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style-for-the-badge&logo=mysql)
 
 ### Follow Me
